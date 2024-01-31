@@ -14,9 +14,6 @@ The program is a simple group of contracts written in solidity and deployed on a
 - Remix IDE online 
 - Avalanche Fuji Chain Subnet
 
- 
-
-
 **Deployment**
 - Deploy the ERC20 Token Contract using the injected provider in REMIX with the subnet as the active chain.
 - Deploy the Vault Contract using the address from ERC20 contract deployed above as the constructor parameter.
